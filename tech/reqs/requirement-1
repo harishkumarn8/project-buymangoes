@@ -1,0 +1,7 @@
+Task: Build BuyMangoes.in welcome page. 
+
+Welcome page to satisfy following criteria: 
+1. Simple interface - Background image of mangoes 
+2. To be built in Angular JS 
+3. To contain, Header, Body and Tailer elements in the web page 
+4. Tailer element to contain facebook, twitter logos and copyright information 
